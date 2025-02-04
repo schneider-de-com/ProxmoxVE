@@ -8,7 +8,7 @@
     "type": "ct",
     "updateable": false,
     "privileged": false,
-    "interface_port": 4443,
+    "interface_port": 443,
     "documentation": null,
     "website": "https://github.com/nextcloud/nextcloudpi",
     "logo": "https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/main/assets/nextcloud.svg",
